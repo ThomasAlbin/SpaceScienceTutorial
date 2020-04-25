@@ -7,4 +7,4 @@ Each part will be stored in a sub-directory. Some folders have a generic purpose
 https://medium.com/@thomas.albin/space-science-with-python-an-introduction-2de33e26c7b2?source=friends_link&sk=8f1cb55f833595bf9317acba095abd17
 
 # Part 1
-Coming soon...
+https://medium.com/@thomas.albin/space-science-with-python-setup-and-first-steps-1-8551334118f6?source=friends_link&sk=dd1c9a350ad3f618921dc07cbef81e70
