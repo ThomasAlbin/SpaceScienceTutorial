@@ -8,3 +8,6 @@ https://medium.com/@thomas.albin/space-science-with-python-an-introduction-2de33
 
 # Part 1
 https://medium.com/@thomas.albin/space-science-with-python-setup-and-first-steps-1-8551334118f6?source=friends_link&sk=dd1c9a350ad3f618921dc07cbef81e70
+
+# Part 2
+https://medium.com/@thomas.albin/space-science-with-python-2-a-look-at-keplers-first-law-84caa6c75a35?source=friends_link&sk=8982f1b665d206b2ce8d5cbc13e5a4ea
