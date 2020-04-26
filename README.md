@@ -3,6 +3,8 @@ This repository is part of a "Space Science with Python" tutorial series. The co
 
 Each part will be stored in a sub-directory. Some folders have a generic purpose and will be used in several tutorials. Please comment on my Medium articles or write me via Reddit (https://www.reddit.com/user/MrAstroThomas) if you have any ideas (topics or improvement), if you want to provide some feedback or if you need additional information.
 
+For all Twitter users who want to see recent updates in their feed: I just created a Twitter account where I will tweet the Medium friends link as well: https://twitter.com/MrAstroThomas
+
 # Part 0
 https://medium.com/@thomas.albin/space-science-with-python-an-introduction-2de33e26c7b2?source=friends_link&sk=8f1cb55f833595bf9317acba095abd17
 
