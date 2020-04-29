@@ -1,0 +1,14 @@
+\begintext
+
+    This meta file contains the relative paths to all needed SPICE kernels.
+    For each tutorial we will set up an individual kernel_meta.txt. A common
+    meta file could be easily stored in the main folder (next to the _kernel
+    directory), however it would be over-loaded at some point.
+
+\begindata
+
+KERNELS_TO_LOAD = (
+    '../_kernels/spk/de432s.bsp',
+    '../_kernels/lsk/naif0012.tls',
+    '../_kernels/pck/pck00010.tpc'
+                  )
