@@ -13,3 +13,6 @@ https://medium.com/@thomas.albin/space-science-with-python-setup-and-first-steps
 
 # Part 2
 https://medium.com/@thomas.albin/space-science-with-python-2-a-look-at-keplers-first-law-84caa6c75a35?source=friends_link&sk=8982f1b665d206b2ce8d5cbc13e5a4ea
+
+# Part 3
+https://medium.com/@thomas.albin/space-science-with-python-the-solar-system-centre-6b8ad8d7ea96?source=friends_link&sk=1157e3e480e1b162d8726d9f5b296fc1
