@@ -16,3 +16,6 @@ https://medium.com/@thomas.albin/space-science-with-python-2-a-look-at-keplers-f
 
 # Part 3
 https://medium.com/@thomas.albin/space-science-with-python-the-solar-system-centre-6b8ad8d7ea96?source=friends_link&sk=1157e3e480e1b162d8726d9f5b296fc1
+
+# Part 4
+https://medium.com/@thomas.albin/space-science-with-python-the-dance-of-venus-926905875afb?source=friends_link&sk=97115ae96452f4366a1ed6352deec4ec
