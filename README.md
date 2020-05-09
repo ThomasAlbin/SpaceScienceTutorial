@@ -24,4 +24,4 @@ https://medium.com/@thomas.albin/space-science-with-python-the-dance-of-venus-92
 https://medium.com/@thomas.albin/space-science-with-python-space-maps-747c7d1eaf7f?source=friends_link&sk=5418db70a1e0f3c12fcf91d93b513257
 
 # Part 6
-https://medium.com/@thomas.albin/space-science-with-python-quite-around-the-sun-6faa206a1210?sk=e94c82a7b7de43612e0a9ee02b9ac834
+https://medium.com/@thomas.albin/space-science-with-python-quite-around-the-sun-6faa206a1210?source=friends_link&sk=e94c82a7b7de43612e0a9ee02b9ac834
