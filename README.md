@@ -27,4 +27,4 @@ https://medium.com/@thomas.albin/space-science-with-python-space-maps-747c7d1eaf
 https://medium.com/@thomas.albin/space-science-with-python-quite-around-the-sun-6faa206a1210?source=friends_link&sk=e94c82a7b7de43612e0a9ee02b9ac834
 
 # Part 7
-Soon
+https://medium.com/@thomas.albin/comets-visitors-from-afar-4d432cf0f3b?source=friends_link&sk=15313bd24e81936f6139bd1d81fff46d
