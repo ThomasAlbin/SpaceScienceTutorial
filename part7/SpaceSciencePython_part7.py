@@ -157,6 +157,7 @@ cur.execute('CREATE TABLE IF NOT EXISTS ' \
                         'SEMI_MAJOR_AXIS_AU REAL, ' \
                         'APOHELION_AU REAL, ' \
                         'ECCENTRICITY, ' \
+                        'INCLINATION_DEG REAL, ' \
                         'ARG_OF_PERIH_DEG REAL, ' \
                         'LONG_OF_ASC_NODE_DEG REAL, ' \
                         'MEAN_ANOMALY_DEG REAL DEFAULT 0.0, ' \
@@ -176,6 +177,7 @@ cur.executemany('INSERT OR REPLACE INTO ' \
                             'SEMI_MAJOR_AXIS_AU, ' \
                             'APOHELION_AU, ' \
                             'ECCENTRICITY, ' \
+                            'INCLINATION_DEG, ' \
                             'ARG_OF_PERIH_DEG, ' \
                             'LONG_OF_ASC_NODE_DEG, ' \
                             'EPOCH_UTC, ' \
@@ -183,13 +185,14 @@ cur.executemany('INSERT OR REPLACE INTO ' \
                             'ABSOLUTE_MAGNITUDE, ' \
                             'SLOPE_PARAMETER'
                             ') ' \
-                'VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', \
+                'VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', \
                 c_df[['Designation_and_name', \
                       'Orbit_type', \
                       'Perihelion_dist', \
                       'SEMI_MAJOR_AXIS_AU', \
                       'APOHELION_AU', \
                       'e', \
+                      'i', \
                       'Peri', \
                       'Node', \
                       'EPOCH_UTC', \
