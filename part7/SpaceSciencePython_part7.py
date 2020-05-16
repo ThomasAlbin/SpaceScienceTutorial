@@ -132,8 +132,8 @@ c_df.loc[:, 'SEMI_MAJOR_AXIS_AU'] = \
                          else np.nan, \
                axis=1)
 
-# ... as well as the apohelion (if applicable)
-c_df.loc[:, 'APOHELION_AU'] = \
+# ... as well as the APHELION (if applicable)
+c_df.loc[:, 'APHELION_AU'] = \
     c_df.apply(lambda x: (1.0 + x['e']) * x['SEMI_MAJOR_AXIS_AU'] \
                          if x['e'] < 1 else np.nan, \
                axis=1)
@@ -155,7 +155,7 @@ cur.execute('CREATE TABLE IF NOT EXISTS ' \
                         'ORBIT_TYPE TEXT, ' \
                         'PERIHELION_AU REAL, ' \
                         'SEMI_MAJOR_AXIS_AU REAL, ' \
-                        'APOHELION_AU REAL, ' \
+                        'APHELION_AU REAL, ' \
                         'ECCENTRICITY, ' \
                         'INCLINATION_DEG REAL, ' \
                         'ARG_OF_PERIH_DEG REAL, ' \
@@ -175,7 +175,7 @@ cur.executemany('INSERT OR REPLACE INTO ' \
                             'ORBIT_TYPE, ' \
                             'PERIHELION_AU, ' \
                             'SEMI_MAJOR_AXIS_AU, ' \
-                            'APOHELION_AU, ' \
+                            'APHELION_AU, ' \
                             'ECCENTRICITY, ' \
                             'INCLINATION_DEG, ' \
                             'ARG_OF_PERIH_DEG, ' \
@@ -190,7 +190,7 @@ cur.executemany('INSERT OR REPLACE INTO ' \
                       'Orbit_type', \
                       'Perihelion_dist', \
                       'SEMI_MAJOR_AXIS_AU', \
-                      'APOHELION_AU', \
+                      'APHELION_AU', \
                       'e', \
                       'i', \
                       'Peri', \
