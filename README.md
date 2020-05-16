@@ -28,3 +28,6 @@ https://medium.com/@thomas.albin/space-science-with-python-quite-around-the-sun-
 
 # Part 7
 https://medium.com/@thomas.albin/comets-visitors-from-afar-4d432cf0f3b?source=friends_link&sk=15313bd24e81936f6139bd1d81fff46d
+
+# Part 8
+TBD
