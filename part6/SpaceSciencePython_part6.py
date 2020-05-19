@@ -1,7 +1,7 @@
 # Import the modules
 import datetime
 import pathlib
-import urllib
+import urllib.request
 import os
 
 import numpy as np

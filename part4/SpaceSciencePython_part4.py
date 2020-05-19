@@ -110,6 +110,10 @@ print('Number of photogenic hours: %s (around %s days)' \
 from matplotlib import pyplot as plt
 import matplotlib.dates as matpl_dates
 
+# Convert UTC to the matplotlib date format
+INNER_SOLSYS_DF.loc[:, 'UTC'] = \
+    INNER_SOLSYS_DF['UTC'].apply(lambda x: matpl_dates.date2num(x))
+
 # Set a figure
 FIG, AX = plt.subplots(figsize=(12, 8))
 
