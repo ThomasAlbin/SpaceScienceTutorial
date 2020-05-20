@@ -8,6 +8,6 @@
 \begindata
 
 KERNELS_TO_LOAD = (
-    '../_kernels/pck/gm_de431.tpc'
+    '../_kernels/pck/gm_de431.tpc',
     '../_kernels/lsk/naif0012.tls',
                   )
