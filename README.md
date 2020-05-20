@@ -33,4 +33,4 @@ https://medium.com/@thomas.albin/comets-visitors-from-afar-4d432cf0f3b?source=fr
 https://medium.com/@thomas.albin/space-science-with-python-the-origin-of-comets-3b2aa57470e7?source=friends_link&sk=e8384a1eac7666bb6bf3280914c4f1ef
 
 # Part 9
-... soon
+https://medium.com/@thomas.albin/space-science-with-python-a-rendezvous-with-jupiter-55713e4ce340?source=friends_link&sk=c18510e728bad5c55661efc79fbd9076
