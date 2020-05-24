@@ -35,6 +35,7 @@ https://medium.com/@thomas.albin/space-science-with-python-the-origin-of-comets-
 # 9. Space Science with Python — A Rendezvous with Jupiter
 https://medium.com/@thomas.albin/space-science-with-python-a-rendezvous-with-jupiter-55713e4ce340?source=friends_link&sk=c18510e728bad5c55661efc79fbd9076
 
-# 10. Soon
+# 10. Space Science with Python — Supplements for Papers
+https://medium.com/@thomas.albin/space-science-with-python-supplements-for-papers-4876ec46b418?source=friends_link&sk=93002e113b1431397d3af131fb918bd6
 
 # 11. Soon: (Un-Biasing the Mass Distribution of Comets)
