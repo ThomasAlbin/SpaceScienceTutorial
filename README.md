@@ -38,4 +38,5 @@ https://medium.com/@thomas.albin/space-science-with-python-a-rendezvous-with-jup
 # 10. Space Science with Python — Supplements for Papers
 https://medium.com/@thomas.albin/space-science-with-python-supplements-for-papers-4876ec46b418?source=friends_link&sk=93002e113b1431397d3af131fb918bd6
 
-# 11. Soon: (Un-Biasing the Mass Distribution of Comets)
+# 11. Space Science with Python — Did we observe everything?
+https://medium.com/@thomas.albin/space-science-with-python-did-we-observe-everything-617a8221e750?source=friends_link&sk=c422567d9ffce98d62f2b8a97a4f0dcc
