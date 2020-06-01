@@ -11,3 +11,4 @@ _kernels/spk/codes_300ast_20100725.bsp
 part7/raw_data/cometels.json.gz
 *.gif
 *.png
+*.OBJ
