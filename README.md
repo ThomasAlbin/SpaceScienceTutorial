@@ -42,4 +42,4 @@ https://medium.com/@thomas.albin/space-science-with-python-supplements-for-paper
 https://medium.com/@thomas.albin/space-science-with-python-did-we-observe-everything-617a8221e750?source=friends_link&sk=c422567d9ffce98d62f2b8a97a4f0dcc
 
 # 12. Space Science with Python — A comet in 3 D
-Soon!
+https://medium.com/@thomas.albin/space-science-with-python-a-comet-in-3-d-3774b1d71d9b?source=friends_link&sk=c0c6c3214d7a4447122b8566c45b2fa1
