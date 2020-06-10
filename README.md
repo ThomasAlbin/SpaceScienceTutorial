@@ -47,4 +47,5 @@ https://medium.com/@thomas.albin/space-science-with-python-a-comet-in-3-d-3774b1
 # 13. Space Science with Python — Turbulent times of a comet
 https://medium.com/@thomas.albin/space-science-with-python-turbulent-times-of-a-comet-7fecedd78169?source=friends_link&sk=899cd7a241865f9adcec7cf15c1b5497
 
-# 14. Soon
+# 14. Space Science with Python — An Invisible Visitor
+https://medium.com/@thomas.albin/space-science-with-python-an-invisible-visitor-2c8d759509cd?source=friends_link&sk=10dbf929f933a9bcd3471030baa49e4a
