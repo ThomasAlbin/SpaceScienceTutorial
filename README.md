@@ -43,3 +43,6 @@ https://medium.com/@thomas.albin/space-science-with-python-did-we-observe-everyt
 
 # 12. Space Science with Python — A comet in 3 D
 https://medium.com/@thomas.albin/space-science-with-python-a-comet-in-3-d-3774b1d71d9b?source=friends_link&sk=c0c6c3214d7a4447122b8566c45b2fa1
+
+# 13. Space Science with Python — Turbulent times of a comet
+https://medium.com/@thomas.albin/space-science-with-python-turbulent-times-of-a-comet-7fecedd78169?source=friends_link&sk=899cd7a241865f9adcec7cf15c1b5497
