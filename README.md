@@ -5,6 +5,8 @@ Each part is stored in a sub-directory. Some folders have a generic purpose and 
 
 For all Twitter users who want to see recent updates in their feed: I tweet all Medium Friends Links as well as other topics I am interested in (Space Science, Astronomy, Machine Learning, Data Science): https://twitter.com/MrAstroThomas
 
+A summary Medium article with short descriptions of each article can be read here: https://medium.com/@thomas.albin/space-science-with-python-a-data-science-tutorial-series-57ad95660056?source=friends_link&sk=6917c1130f6c210a6990816575024538
+
 # 0. Space Science with Python — An Introduction
 https://medium.com/@thomas.albin/space-science-with-python-an-introduction-2de33e26c7b2?source=friends_link&sk=8f1cb55f833595bf9317acba095abd17
 
