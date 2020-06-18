@@ -51,3 +51,6 @@ https://medium.com/@thomas.albin/space-science-with-python-turbulent-times-of-a-
 
 # 14. Space Science with Python — An Invisible Visitor
 https://medium.com/@thomas.albin/space-science-with-python-an-invisible-visitor-2c8d759509cd?source=friends_link&sk=10dbf929f933a9bcd3471030baa49e4a
+
+# 15. Space Science with Python - The Solar Orbiter and comet ATLAS
+https://medium.com/@thomas.albin/space-science-with-python-the-solar-orbiter-and-comet-atlas-8150d66f79aa?sk=6ca909c57bf42b221de677666954c204
