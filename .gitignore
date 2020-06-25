@@ -12,3 +12,4 @@ part7/raw_data/cometels.json.gz
 *.gif
 *.png
 *.OBJ
+part16/magnitude_lookup_table.xlsx
