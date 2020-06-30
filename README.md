@@ -54,3 +54,6 @@ https://medium.com/@thomas.albin/space-science-with-python-an-invisible-visitor-
 
 # 15. Space Science with Python - The Solar Orbiter and comet ATLAS
 https://medium.com/@thomas.albin/space-science-with-python-the-solar-orbiter-and-comet-atlas-8150d66f79aa?sk=6ca909c57bf42b221de677666954c204
+
+# 16. Space Science with Python - Bright Dots in the Dark Sky
+https://medium.com/@thomas.albin/space-science-with-python-bright-dots-in-the-dark-sky-73909507a0ca?source=friends_link&sk=805a7ef8c8a06d362d6a2f28a6f82c2e
