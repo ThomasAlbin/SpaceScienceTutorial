@@ -76,7 +76,7 @@ COMET_67P_ORB_ELEM = spiceypy.oscelt(state=COMET_67P_STATE, \
 #%%
 
 # Now we want to determine when 67P enters the SOI of Jupiter. As a starting
-# date we set the 1st January 1961 and compute everything back in time
+# date we set the 1st January 2017 and compute everything back in time
 datetime_stamp = datetime.datetime(year=2017, month=1, day=1)
 
 # Our computation will be performed within a while condition (to check whether
