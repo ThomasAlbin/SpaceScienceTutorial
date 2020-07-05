@@ -199,3 +199,8 @@ print('Statistics for the Ecliptic Latitude: \n' \
 #            space-science-with-python-space-maps-747c7d1eaf7f)
 #   2. Compute the probability density function in spherical coordinates
 #      (and plot it in the sky map. Hint: Use the Haversine metric!)
+
+#%%
+
+# Store the data in a feather file
+ast_2020_jx1_df.to_csv('2020_JX1_data.csv', sep=';')
