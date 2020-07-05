@@ -57,3 +57,6 @@ https://medium.com/@thomas.albin/space-science-with-python-the-solar-orbiter-and
 
 # 16. Space Science with Python - Bright Dots in the Dark Sky
 https://medium.com/@thomas.albin/space-science-with-python-bright-dots-in-the-dark-sky-73909507a0ca?source=friends_link&sk=805a7ef8c8a06d362d6a2f28a6f82c2e
+
+# 17. Space Science with Python — Uncertain Movements of an Asteroid
+https://medium.com/@thomas.albin/space-science-with-python-uncertain-movements-of-an-asteroid-f651b94f7008?sk=21ee3e0d9c8e673be0e99e6103553558
