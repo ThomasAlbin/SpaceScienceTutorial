@@ -202,5 +202,5 @@ print('Statistics for the Ecliptic Latitude: \n' \
 
 #%%
 
-# Store the data in a feather file
+# Store the data in a csv file
 ast_2020_jx1_df.to_csv('2020_JX1_data.csv', sep=';')
