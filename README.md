@@ -60,3 +60,6 @@ https://medium.com/@thomas.albin/space-science-with-python-bright-dots-in-the-da
 
 # 17. Space Science with Python — Uncertain Movements of an Asteroid
 https://medium.com/@thomas.albin/space-science-with-python-uncertain-movements-of-an-asteroid-f651b94f7008?sk=21ee3e0d9c8e673be0e99e6103553558
+
+# 18. Space Science with Python — Density Estimators in the Sky
+https://medium.com/@thomas.albin/space-science-with-python-density-estimators-in-the-sky-87fbcfb089a6?source=friends_link&sk=ded09a125fb0344452ed5256ae350391
