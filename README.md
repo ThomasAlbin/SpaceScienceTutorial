@@ -63,3 +63,6 @@ https://medium.com/@thomas.albin/space-science-with-python-uncertain-movements-o
 
 # 18. Space Science with Python — Density Estimators in the Sky
 https://medium.com/@thomas.albin/space-science-with-python-density-estimators-in-the-sky-87fbcfb089a6?source=friends_link&sk=ded09a125fb0344452ed5256ae350391
+
+# 19. Space Science with Python - A very bright Opposition
+https://medium.com/@thomas.albin/space-science-with-python-a-very-bright-opposition-62e248abfe62?source=friends_link&sk=20df82d085fbaae0f9ef47cb30cf7674
