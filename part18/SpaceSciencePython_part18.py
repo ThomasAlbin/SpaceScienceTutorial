@@ -100,7 +100,6 @@ pdf_final = pdf_final[::-1]
 
 #%%
 
-
 # Use a dark background
 plt.style.use('dark_background')
 
