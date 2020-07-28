@@ -66,3 +66,6 @@ https://medium.com/@thomas.albin/space-science-with-python-density-estimators-in
 
 # 19. Space Science with Python - A very bright Opposition
 https://medium.com/@thomas.albin/space-science-with-python-a-very-bright-opposition-62e248abfe62?source=friends_link&sk=20df82d085fbaae0f9ef47cb30cf7674
+
+# 20. Space Science with Python - Ceres in the Sky
+https://medium.com/@thomas.albin/space-science-with-python-ceres-in-the-sky-fec20fee3f9d?source=friends_link&sk=eda324f6026c621920eb94e91b37c26c
