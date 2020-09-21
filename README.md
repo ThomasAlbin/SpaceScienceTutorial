@@ -69,3 +69,6 @@ https://medium.com/@thomas.albin/space-science-with-python-a-very-bright-opposit
 
 # 20. Space Science with Python - Ceres in the Sky
 https://medium.com/@thomas.albin/space-science-with-python-ceres-in-the-sky-fec20fee3f9d?source=friends_link&sk=eda324f6026c621920eb94e91b37c26c
+
+# 21. Space Science with Python - Asteroid Project (Part 1)
+https://towardsdatascience.com/space-science-with-python-asteroid-project-part-1-4fa8809f8bde?source=friends_link&sk=032715a7707c89518c76b8b56c14f2a9
