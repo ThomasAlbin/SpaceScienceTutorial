@@ -72,3 +72,6 @@ https://medium.com/@thomas.albin/space-science-with-python-ceres-in-the-sky-fec2
 
 # 21. Space Science with Python - Asteroid Project (Part 1)
 https://towardsdatascience.com/space-science-with-python-asteroid-project-part-1-4fa8809f8bde?source=friends_link&sk=032715a7707c89518c76b8b56c14f2a9
+
+# 22. Asteroid Project (Part 2) — Test Driven Development
+https://towardsdatascience.com/asteroid-project-part-2-test-driven-development-ed7af6c1820e?source=friends_link&sk=29e6524214e1b581364f8ebff2337956
