@@ -75,3 +75,6 @@ https://towardsdatascience.com/space-science-with-python-asteroid-project-part-1
 
 # 22. Asteroid Project (Part 2) — Test Driven Development
 https://towardsdatascience.com/asteroid-project-part-2-test-driven-development-ed7af6c1820e?source=friends_link&sk=29e6524214e1b581364f8ebff2337956
+
+# 23. Space Science with Python — Asteroid Project (Part 3)
+https://towardsdatascience.com/space-science-with-python-asteroid-project-part-3-d7dc0941a717?source=friends_link&sk=8561e2be024b751caba9fea18805ddad
