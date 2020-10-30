@@ -78,3 +78,7 @@ https://towardsdatascience.com/asteroid-project-part-2-test-driven-development-e
 
 # 23. Space Science with Python — Asteroid Project (Part 3)
 https://towardsdatascience.com/space-science-with-python-asteroid-project-part-3-d7dc0941a717?source=friends_link&sk=8561e2be024b751caba9fea18805ddad
+
+# 24. Space Science with Python - ASteroid Project (Part 4)
+Please check also the resulting Pyton library SolarY on my GitHub profile that is still being developed.
+https://towardsdatascience.com/space-science-with-python-asteroid-project-part-4-ea1361540033?sk=110e8fbe45e5fb913951fcd0ae324733
